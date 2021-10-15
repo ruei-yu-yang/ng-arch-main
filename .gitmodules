@@ -1,3 +1,6 @@
 [submodule "src/app/module-b"]
 	path = src/app/module-b
 	url = https://github.com/ruei-yu-yang/ng-arch-module-b.git
+[submodule "src/app/module-a"]
+	path = src/app/module-a
+	url = https://github.com/ruei-yu-yang/ng-arch-module-a.git
